@@ -96,6 +96,7 @@
           <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
           <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
           <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
         </span>
       </td>
       <td align="center" style="padding: 10px;">
@@ -104,7 +105,7 @@
         <span>
           <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+         <img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white&label=" alt="C" />
         </span>
       </td>
     </tr>
@@ -119,7 +120,7 @@
       </td>
       <td align="center" style="padding: 10px;">
         <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80" alt="ML">
-        <h4>Data Science & ML</h4>
+        <h4>Machine Learning</h4>
         <span>
           <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
           <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -128,10 +129,11 @@
       </td>
       <td align="center" style="padding: 10px;">
         <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="80" alt="Frontend">
-        <h4>Frontend</h4>
+        <h4>Frontend Technologies</h4>
         <span>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
           <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
         </span>
       </td>
@@ -161,6 +163,7 @@
       <ul>
         <li>Deepening my understanding of ML algorithms and their real-world applications.</li>
         <li>Building full-stack web applications with the MERN stack.</li>
+        <li>Crafting responsive UI designs with Tailwind CSS for modern web applications.</li>
         <li>Exploring cloud technologies for scalable application deployment.</li>
         <li>Learning and mastering data structures and algorithms concepts.</li>
       </ul>
